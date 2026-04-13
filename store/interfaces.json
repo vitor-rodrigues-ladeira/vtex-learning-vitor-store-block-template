@@ -1,5 +1,7 @@
 {
   "countdown": {
-    "component": "Countdown"
+    "component": "Countdown",
+    "render": "client",
+    "title": "Countdown"
   }
 }

@@ -4,4 +4,8 @@ export interface TimeSplit {
   seconds: string
 }
 
-type GenericObject = Record<string, any>
+declare global {
+  type GenericObject = Record<string, any>
+}
+
+export {}

@@ -1,4 +1,4 @@
-import { FunctionComponent } from 'react'
+import { Component, FunctionComponent } from 'react'
 
 declare global {
   interface StorefrontFunctionComponent<P = GenericObject>

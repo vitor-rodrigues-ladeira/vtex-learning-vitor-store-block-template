@@ -9,8 +9,8 @@
       "node",
       "jest"
     ],
-    "module": "esnext",
-    "moduleResolution": "node",
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
     "target": "es2017"
   },
   "include": [
