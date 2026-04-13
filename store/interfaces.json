@@ -3,5 +3,8 @@
     "component": "Countdown",
     "render": "client",
     "title": "Countdown"
+  },
+  "countdown.title": {
+    "component": "Title"
   }
 }
